@@ -357,3 +357,20 @@ input[type="submit"] {
 	}
 }
 
+footer {
+	display: flex;
+	justify-content: space-evenly;
+	margin:30px;
+
+}
+
+footer li { 
+	list-style-type: none;
+	font-size: 20px;
+	padding-bottom: 5px;
+}
+
+#réseaux_sociaux img {
+	margin-right: 20px;
+}
+
